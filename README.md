@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pontyororin!
 - 👀 I’m interested in tktcorporation
 - 🌱 I’m currently learning programming
-- 📫 How to yusukeboosca@gmail
+- 📫 How to yusukeboosca@gmail.com!
 - 🇯🇵 I’m from Japan!
 
 <!---
